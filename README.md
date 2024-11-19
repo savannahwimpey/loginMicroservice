@@ -27,3 +27,7 @@ Example:
 {
     "message": "No user account information found"
 }
+
+## UML
+
+![UML](/img/uml.png)
