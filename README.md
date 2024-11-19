@@ -2,11 +2,11 @@
 
 Please run `npm install` after cloning
 
-## Requsting data
+## Requesting data
 
-To request data from the microservice. Send and HTTP POST request to localhost:5001/login that contains a json body with username and password fields.
+To request data from the microservice send an HTTP POST request to localhost:5001/login that contains a JSON body with username and password fields.
 
-Example json:
+Example JSON:
 
 {
     "username": "myUsername",
